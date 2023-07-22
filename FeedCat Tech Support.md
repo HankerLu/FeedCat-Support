@@ -1,5 +1,9 @@
 
+# FeedCat Tech Support
+
 ![FeedCat GameScene](feedcat_app.png)
+
+<img src="feedcat_app.png" alt="FeedCat GameScene" width="200" height="500">
 
 This is a little cat that is lost\n in a maze and doesn't know the way.
 

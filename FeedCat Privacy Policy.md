@@ -1,4 +1,4 @@
-FeedCat Privacy Policy
+# FeedCat Privacy Policy
 
 This application respects and protects the personal privacy rights of all users of its services. In order to provide you with more accurate, personalized services, this application will use and disclose your personal information in accordance with this privacy policy. However, the application will treat this information with a high degree of diligence and caution. Except as otherwise provided in this privacy policy, this application will not disclose or provide this information to third parties without your prior permission. This application will occasionally update this privacy policy. By agreeing to the terms of service of this application, you are considered to have agreed to the entire content of this privacy policy. This privacy policy is an inseparable part of the terms of service of this application.
 
